@@ -6,5 +6,9 @@
 
 my_string = "working is working"
 
-print(len(my_string))
-print(my_string.upper())
+#print(len(my_string))
+#print(my_string.upper())
+
+
+
+
